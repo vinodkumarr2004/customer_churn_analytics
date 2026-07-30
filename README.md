@@ -2,8 +2,10 @@
 
 A machine learning-powered web application that predicts customer churn risk for a telecom company and provides actionable business insights through an interactive dashboard.
 
-🔗 **Live Demo:** [Add your Streamlit app link here]
-📊 **Dataset:** [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+🔗 **Live Demo:** [ Local URL: http://localhost:8501,
+  Network URL: http://192.168.0.108:8501]
+📊 **Dataset:** 
+[Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ---
 
